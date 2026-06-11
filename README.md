@@ -37,6 +37,3 @@ Diego Pereira
 
 [LinkedIn:l
 ](https://www.linkedin.com/in/ddiegosoares/)
-## Licença
-
-MIT License
